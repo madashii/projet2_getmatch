@@ -1,0 +1,9 @@
+/* INIT CONTENT */
+.index-page {
+  background: url("../img/mobile/index-background.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: scroll;
+  background-size: contain;
+  position: relative;
+}
