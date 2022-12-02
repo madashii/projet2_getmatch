@@ -5,10 +5,10 @@ This projet is made in the Wild Code School at Toulouse.
 Constraints was 5 weeks for build this website, and work with an external API.
 
 Made in collaboration with :
-Rémy Bernadin : https://github.com/Remy-B-prog
-Lucas Fasilleau : me
-Jonathan Bonhoure : https://github.com/SkullZRulZ
-Léon Versavel : https://github.com/Jesuisleon
+- Rémy Bernadin : https://github.com/Remy-B-prog
+- Lucas Fasilleau : me
+- Jonathan Bonhoure : https://github.com/SkullZRulZ
+- Léon Versavel : https://github.com/Jesuisleon
 
 
 
